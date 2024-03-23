@@ -66,10 +66,10 @@ endmodule
 Developed by:G.NIKSHITHA RegisterNumber:212223110031 */
 
 **RTL Schematic**
-![half_addsub](https://github.com/23007784/HALF_ADDER_SUBTRACTOR/assets/139115570/13766b22-6f50-414a-bcb5-dee0906808d5)
-
-**Output/TIMING Waveform**
 ![half_addsub DE](https://github.com/23007784/HALF_ADDER_SUBTRACTOR/assets/139115570/bec7e031-0008-4b88-bd59-ec22bffb1afd)
+**Output/TIMING Waveform**
+
+![half_addsub](https://github.com/23007784/HALF_ADDER_SUBTRACTOR/assets/139115570/13766b22-6f50-414a-bcb5-dee0906808d5)
 
 **Result:**
 Thus the half adder and half subtractor circuit was designed and verified its truth table in Quartus using Verilog programming.
